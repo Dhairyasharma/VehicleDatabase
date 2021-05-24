@@ -1,4 +1,4 @@
 # VehicleDatabase
 A Basic Crud Application that stores vehicles information.
 
-#### PHP, MySQL , HTML&CSS
+#### Languages Used: PHP (PDO Module), MySQL , HTML&CSS
